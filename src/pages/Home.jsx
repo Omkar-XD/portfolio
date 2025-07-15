@@ -1,12 +1,12 @@
 import React from 'react';
 import { FaFacebookF, FaLinkedinIn, FaInstagram, FaDownload, FaGithub } from 'react-icons/fa';
-import profileImg from '../assets/profile.jpg';
+import profileImg from '../assets/Profile.jpg';
 import resumePDF from '../assets/Omkar_Resume.pdf';
 
 const Home = () => {
   return (
     <div
-      id="home"
+
       className="relative min-h-screen overflow-hidden text-white flex items-center justify-center px-4 sm:px-6 lg:px-8"
       style={{
        background: 'linear-gradient(to right, #0a1124 0%, #81c3e2ff 100%)',
