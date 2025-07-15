@@ -6,7 +6,7 @@ A responsive and modern **Portfolio Website** built using **React.js** and **Tai
 
 ## 🌐 Live Demo
 
-👉 **Netlify Link**: [https://your-netlify-link.netlify.app](https://your-netlify-link.netlify.app)
+👉 **Netlify Link**: [https://omkarcportfolio.netlify.app](https://omkarcportfolio.netlify.app)
 
 ---
 
