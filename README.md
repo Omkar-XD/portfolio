@@ -1,14 +1,78 @@
-# React + Vite
+# 💼 Omkar Chavan — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and modern **Portfolio Website** built using **React.js** and **Tailwind CSS**, showcasing my skills, certifications, projects, and contact options — with smooth UI and form integration via Web3Forms.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+👉 **Netlify Link**: [https://your-netlify-link.netlify.app](https://your-netlify-link.netlify.app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
 
-# portfolio
+## 📌 Features
+
+* 🎯 Fully Responsive UI
+* 🏗️ Clean structure and modern layout
+* 🗄 Skills section with animated progress bars
+* 🧑‍💻 Services with icons & descriptions
+* 🎨 Portfolio cards with hover animations
+* 📩 Contact form powered by **Web3Forms**
+* 🔒 Secure API keys via `.env`
+* 🚀 Scroll-to-top functionality
+* 🌈 Gradient background with smooth design
+
+---
+
+## 🧰 Tech Stack
+
+| Tech         | Usage                |
+| ------------ | -------------------- |
+| React        | Frontend Framework   |
+| Tailwind CSS | Styling Framework    |
+| Web3Forms    | Contact Form Backend |
+| Git & GitHub | Version Control      |
+| Netlify      | Deployment Hosting   |
+
+
+## 🛠️ Local Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/Omkar-XD/portfolio.git
+cd portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+### MIT License
+
+```
+MIT License
+
+Copyright (c) 2025 Omkar Chavan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
+```
+
+---
+
+## 🙋‍♂️ Author
+
+**Omkar Chavan**
+📧 [omkarchavan21k@gmail.com](mailto:omkarchavan21k@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/omkar-chavan-8b59a8334)
+👩‍💻 [GitHub](https://github.com/Omkar-XD)
+📸 [Instagram](https://www.instagram.com/its.omkarr_/)
+
+---
+
+> 💖 If you like this project, feel free to ⭐️ star the repository and share it!
